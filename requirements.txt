@@ -3,4 +3,3 @@ uvicorn
 pycryptodome
 pypiwin32
 psutil
-sqlite3
