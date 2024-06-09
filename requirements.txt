@@ -1,6 +1,6 @@
-fastapi==0.95.1
-uvicorn==0.22.0
-pycryptodome==3.18.0
-pypiwin32==303
-psutil==5.9.5
-sqlite3==0.1.0
+fastapi
+uvicorn
+pycryptodome
+pypiwin32
+psutil
+sqlite3
